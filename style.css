@@ -18,7 +18,7 @@
 .menu ul li {
     list-style: none;
     margin: 0 20px;
-    color: #585D51;
+    color: #334195;
     cursor: pointer;
 }
 
@@ -33,7 +33,7 @@ a {
 }
 
 .active {
-    color: #3E442B !important;
+    color: #020887 !important;
 }
 
 .try {
@@ -60,7 +60,7 @@ a {
     top: 25%;
     left: 130px;
     position: absolute;
-    color: #000000;
+    color: #647AA3;
 }
 
 .app-text {
@@ -86,7 +86,7 @@ a {
 }
 
 .menu :visited {
-    color: #585D51
+    color: #334195
 }
 
 .app-text p {
